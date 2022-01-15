@@ -1,3 +1,4 @@
 "SOURCE CODE CS406.M11"
-- Weblive.py
+- web_live.py
+run it with command <streamlit run web_live.py
 - Swapping_face.py
